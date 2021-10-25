@@ -15,10 +15,6 @@
 	<a href="#pré-requisitos">Pré-requisitos</a>  •
 	<a href="#rodando">Rodando</a>
 </p>
-  
-<h3 align="center"> 
-	🚧  NLW Heat 🚀 Backend concluido 🎉
-</h4>
 
 ---
 ## **Tecnologias**
@@ -29,6 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Express](https://expressjs.com/)
 - [JSON Web Token](https://jwt.io/)
 - [Prisma](https://www.prisma.io/)
+- [Socket.io](https://socket.io/)
 - [TypeScript](https://www.typescriptlang.org/)
   
 ## **Pré-requisitos**
@@ -38,7 +35,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disso é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 Além disso na pasta raiz do projeto você deve criar um arquivo .env com as seguintes informações GITHUB_CLIENT_SECRET, GITHUB_CLIENT_ID e JWT_SECRET. Sendo os 2 primeiros você consegue gerar no próprio github nesse [link](https://github.com/settings/developers), o terceiro deve ser um código hash qualquer que você pode gerar a partir desse [link](https://www.md5hashgenerator.com/).
   
-## **Rodando** o Back End (servidor)
+## **Rodando**
 
 ```bash
 # Clone este repositório
