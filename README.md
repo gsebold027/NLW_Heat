@@ -39,7 +39,7 @@ Além disso na pasta raiz do projeto você deve criar um arquivo .env com as seg
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/gsebold027/NLW_Heat.git
+$ git clone https://github.com/gsebold027/NLW_Heat_node.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd NLW_Heat
 # Instale as dependências (com o yarn ou npm)
