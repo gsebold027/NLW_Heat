@@ -41,7 +41,7 @@ Além disso na pasta raiz do projeto você deve criar um arquivo .env com as seg
 # Clone este repositório
 $ git clone https://github.com/gsebold027/NLW_Heat_node.git
 # Acesse a pasta do projeto no terminal/cmd
-$ cd NLW_Heat
+$ cd NLW_Heat_node
 # Instale as dependências (com o yarn ou npm)
 $ yarn
 # Executa as migrations do Prisma
